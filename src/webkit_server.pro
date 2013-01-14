@@ -115,7 +115,7 @@ SOURCES = \
   JsonSerializer.cpp
 
 RESOURCES = webkit_server.qrc
-QT += network webkit
+QT += network webkitwidgets
 CONFIG += console
 CONFIG -= app_bundle
 
